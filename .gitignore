@@ -50,7 +50,6 @@ nbproject/
 *.pydevproject
 .metadata
 .gradle
-bin/
 tmp/
 *.tmp
 *.swp
